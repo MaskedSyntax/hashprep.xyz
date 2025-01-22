@@ -1,6 +1,30 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { CheckCircle, Heart } from "lucide-react"
 import { firaSans } from "@/app/ui/fonts"
+import { Metadata } from "next"
+
+export const metadata: Metadata = {
+  title: "Coming Soon",
+  description:
+    "Unlock the fun behind cracking the coding interview. Join HashPrep to revolutionize your interview preparation journey.",
+    icons: {
+      icon: "/favicons/favicon.ico", // Default favicon
+      shortcut: "/favicons/favicon-16x16.png", // Shortcut icon
+      apple: "/favicons/apple-touch-icon.png", // Apple Touch Icon
+    },
+  openGraph: {
+    title: "HashPrep - Coming Soon",
+    description:
+      "Unlock the fun behind cracking the coding interview. Join HashPrep to revolutionize your interview preparation journey.",
+    type: "website",
+  },
+  // twitter: {
+  //   card: "summary_large_image",
+  //   title: "HashPrep - Coming Soon",
+  //   description:
+  //     "Unlock the fun behind cracking the coding interview. Join HashPrep to revolutionize your interview preparation journey.",
+  // },
+}
 
 export default function ComingSoonPage() {
   return (
