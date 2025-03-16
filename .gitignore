@@ -25,3 +25,4 @@ coverage/                # Coverage reports (if using tools like Jest or Mocha)
 *.lcov                   # LCOV coverage data
 *.nyc_output/            # NYC output directory for code coverage
 
+node_modules

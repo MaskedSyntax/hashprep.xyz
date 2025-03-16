@@ -1,0 +1,268 @@
+/* [next]/internal/font/google/fira_sans_241de5fa.module.css [app-client] (css) */
+@font-face {
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/va9E4kDNxMZdWfMOD5VvmojLazX3dGTP-s.affa2098.woff2") format("woff2");
+  unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/va9E4kDNxMZdWfMOD5Vvk4jLazX3dGTP-s.4a621af2.woff2") format("woff2");
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/va9E4kDNxMZdWfMOD5Vvm4jLazX3dGTP-s.105444c2.woff2") format("woff2");
+  unicode-range: U+1F??;
+}
+
+@font-face {
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/va9E4kDNxMZdWfMOD5VvlIjLazX3dGTP-s.234a96a7.woff2") format("woff2");
+  unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF;
+}
+
+@font-face {
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/va9E4kDNxMZdWfMOD5VvmIjLazX3dGTP-s.1c75eaff.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/va9E4kDNxMZdWfMOD5VvmYjLazX3dGTP-s.d2a7df72.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/va9E4kDNxMZdWfMOD5Vvl4jLazX3dA-s.p.9f6c4302.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../media/va9B4kDNxMZdWfMOD5VnZKveSxf6Xl7Gl3LX-s.2d06cc3f.woff2") format("woff2");
+  unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../media/va9B4kDNxMZdWfMOD5VnZKveQhf6Xl7Gl3LX-s.bcca62e7.woff2") format("woff2");
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../media/va9B4kDNxMZdWfMOD5VnZKveShf6Xl7Gl3LX-s.d4009adc.woff2") format("woff2");
+  unicode-range: U+1F??;
+}
+
+@font-face {
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../media/va9B4kDNxMZdWfMOD5VnZKveRRf6Xl7Gl3LX-s.4a4556d6.woff2") format("woff2");
+  unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF;
+}
+
+@font-face {
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../media/va9B4kDNxMZdWfMOD5VnZKveSRf6Xl7Gl3LX-s.a5164729.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../media/va9B4kDNxMZdWfMOD5VnZKveSBf6Xl7Gl3LX-s.14e679a0.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../media/va9B4kDNxMZdWfMOD5VnZKveRhf6Xl7Glw-s.p.932b7ca3.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../media/va9B4kDNxMZdWfMOD5VnSKzeSxf6Xl7Gl3LX-s.f09a24e9.woff2") format("woff2");
+  unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../media/va9B4kDNxMZdWfMOD5VnSKzeQhf6Xl7Gl3LX-s.5f326f57.woff2") format("woff2");
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../media/va9B4kDNxMZdWfMOD5VnSKzeShf6Xl7Gl3LX-s.23880acc.woff2") format("woff2");
+  unicode-range: U+1F??;
+}
+
+@font-face {
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../media/va9B4kDNxMZdWfMOD5VnSKzeRRf6Xl7Gl3LX-s.9a631c3c.woff2") format("woff2");
+  unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF;
+}
+
+@font-face {
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../media/va9B4kDNxMZdWfMOD5VnSKzeSRf6Xl7Gl3LX-s.3946c48a.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../media/va9B4kDNxMZdWfMOD5VnSKzeSBf6Xl7Gl3LX-s.ac131bd1.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../media/va9B4kDNxMZdWfMOD5VnSKzeRhf6Xl7Glw-s.p.ce782d01.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../media/va9B4kDNxMZdWfMOD5VnLK3eSxf6Xl7Gl3LX-s.002a229a.woff2") format("woff2");
+  unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../media/va9B4kDNxMZdWfMOD5VnLK3eQhf6Xl7Gl3LX-s.9cc41e9c.woff2") format("woff2");
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../media/va9B4kDNxMZdWfMOD5VnLK3eShf6Xl7Gl3LX-s.b784761a.woff2") format("woff2");
+  unicode-range: U+1F??;
+}
+
+@font-face {
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../media/va9B4kDNxMZdWfMOD5VnLK3eRRf6Xl7Gl3LX-s.bac95597.woff2") format("woff2");
+  unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF;
+}
+
+@font-face {
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../media/va9B4kDNxMZdWfMOD5VnLK3eSRf6Xl7Gl3LX-s.f0e1f5d7.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../media/va9B4kDNxMZdWfMOD5VnLK3eSBf6Xl7Gl3LX-s.9b76f347.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../media/va9B4kDNxMZdWfMOD5VnLK3eRhf6Xl7Glw-s.p.82e6870f.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: Fira Sans Fallback;
+  src: local(Arial);
+  ascent-override: 91.01%;
+  descent-override: 25.79%;
+  line-gap-override: 0.0%;
+  size-adjust: 102.74%;
+}
+
+.fira_sans_241de5fa-module__-T0Rsq__className {
+  font-family: Fira Sans, Fira Sans Fallback;
+  font-style: normal;
+}
+
+/*# sourceMappingURL=%5Bnext%5D_internal_font_google_fira_sans_241de5fa_module_b52d8e.css.map*/
