@@ -1,28 +1,96 @@
-# Node.js / Bun related
-node_modules/            # Node.js dependencies
-.bun/                    # Bun specific cache
+# ==============================
+# Frontend (Next.js + Bun + shadcn)
+# ==============================
 
-# OS generated files
-.DS_Store                # macOS folder settings
-Thumbs.db                # Windows thumbs cache
-Desktop.ini              # Windows folder settings
+# Next.js build output
+.next
+out
 
-# IDE and Editor files
-.vscode/                 # VSCode project settings
-.idea/                   # IntelliJ IDEA project settings
-*.sublime-project        # Sublime Text project files
-*.sublime-workspace      # Sublime Text workspace files
-*.log                    # Log files
+# Bun runtime files
+.bun
 
-# Build and dependency directories (for other tools)
-dist/                    # Distribution folder
-build/                   # General build output folder
-lib/                     # Library output
-tmp/                     # Temporary files
-
-# Coverage and testing output
-coverage/                # Coverage reports (if using tools like Jest or Mocha)
-*.lcov                   # LCOV coverage data
-*.nyc_output/            # NYC output directory for code coverage
-
+# Node modules
 node_modules
+
+# Dependency directories
+**/node_modules
+
+# Environment variables
+.env*.local
+.env
+
+# Logs
+*.log
+
+# Cache directories
+.cache
+
+# Bun lockfile
+bun.lockb
+
+# IDE and editor files
+.vscode
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# macOS files
+.DS_Store
+
+# ==============================
+# Backend (Flask)
+# ==============================
+
+# Python virtual environment
+venv/
+env/
+.venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Flask cache
+instance/
+
+# Environment variables
+.env
+.env.local
+
+# SQLite databases
+*.sqlite3
+
+# Logs
+*.log
+
+# IDE and editor files
+.vscode
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ==============================
+# General
+# ==============================
+
+# System files
+Thumbs.db
+Desktop.ini
+
+# Ignore all .env files (except .env.example)
+.env*
+!.env.example
+
+# Ignore all .DS_Store files
+**/.DS_Store
+
+# Ignore build directories
+build/
+dist/
