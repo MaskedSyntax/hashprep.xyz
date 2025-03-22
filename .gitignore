@@ -94,3 +94,6 @@ Desktop.ini
 # Ignore build directories
 build/
 dist/
+
+*.json
+todo.txt
