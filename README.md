@@ -23,6 +23,16 @@
 
 **HashPrep** is a **monorepo** project that combines a powerful **backend** and a sleek **frontend** to help users stay on track with their technical interview preparation. It allows users to track their progress, bookmark problems, take notes, and create personalized prep plans.
 
+--- 
+
+## Features
+
+HashPrep is an open-source, community-driven platform that empowers learners to stay consistent and collaborative in their interview preparation journey. It isn’t just a tool — it’s a companion for individuals working through DSA challenges with discipline and support.
+
+Users can seamlessly manage and track their problem-solving progress, flag problems for revision, and jot down notes to reflect on their thinking. 
+
+Whether you’re self-studying, prepping for a big interview, or sharing a custom list of must-solve problems with people, HashPrep offers a minimal yet powerful environment to grow — one problem at a time.
+
 ---
 
 ## Project Structure
@@ -81,16 +91,6 @@ python scripts/gsheet_to_db.py
 
 ---
 
-## Features
-
-- [x] User registration and login (JWT-based)
-- [x] Add / solve / bookmark problems
-- [x] Track personal progress with notes and revision flags
-- [x] Admin-only bulk problem insert and tagging
-- [x] Google Sheets integration for seeding problems
-- [x] Minimal and elegant UI with Tailwind + shadcn
-
----
 
 ## Tech Stack
 
