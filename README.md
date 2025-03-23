@@ -25,7 +25,7 @@
 
 ---
 
-## 🏋️‍ Project Structure
+## Project Structure
 
 ```bash
 ├── backend/            # Flask backend (APIs, DB models, auth)
@@ -50,7 +50,7 @@
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Backend Setup (Flask)
 
@@ -81,7 +81,7 @@ python scripts/gsheet_to_db.py
 
 ---
 
-## 🔧 Features
+## Features
 
 - [x] User registration and login (JWT-based)
 - [x] Add / solve / bookmark problems
@@ -92,7 +92,7 @@ python scripts/gsheet_to_db.py
 
 ---
 
-## 📊 Tech Stack
+## Tech Stack
 
 | Layer      | Stack                        |
 |------------|------------------------------|
@@ -103,15 +103,15 @@ python scripts/gsheet_to_db.py
 
 ---
 
-## 🚪 License
+## License
 
 This project is licensed under the **MIT License**.
 
 ---
 
-## 🙋 Contributing
+## Contributing
 
-We welcome contributions to both frontend and backend. Please make sure to:
+Contributions to both frontend and backend are welcome. Please make sure to:
 
 - Write clean, documented code
 - Follow best practices for the stack you're contributing to
