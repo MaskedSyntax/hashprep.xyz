@@ -1,0 +1,4 @@
+{
+    "rootDirectory": "frontend",
+    "ignoreCommand": "git diff --quiet HEAD^ HEAD -- . ./frontend"
+}

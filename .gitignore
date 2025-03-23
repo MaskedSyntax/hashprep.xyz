@@ -95,5 +95,5 @@ Desktop.ini
 build/
 dist/
 
-*.json
+hashprep-dev.json
 todo.txt
