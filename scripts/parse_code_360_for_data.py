@@ -109,4 +109,4 @@ with open(output_file, "w", encoding="utf-8") as file:
     for problem_id, problem_data in problems_with_topics.items():
         file.write(json.dumps(problem_data, indent=4) + "\n\n")
 
-print(f"✅ Output saved to {output_file}")
+print(f"Output saved to {output_file}")

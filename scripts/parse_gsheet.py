@@ -51,4 +51,4 @@ with open(output_file, "w", encoding="utf-8") as file:
     for problem in formatted_problems:
         file.write(json.dumps(problem, indent=4) + "\n\n")
 
-print(f"✅ Data saved to {output_file}")
+print(f"Data saved to {output_file}")
